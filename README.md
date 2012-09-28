@@ -4,7 +4,7 @@ Astortia - Dragon Quest X
 install coffee script
 ---------------------
 
-    npm install cofee-script
+    npm install coffee-script
 
 compile to js
 -------------
@@ -16,10 +16,10 @@ execute on Cloud9
 
 * IDE
 
-> https://c9.io/tumf/astrtia
+> https://c9.io/tumf/astortia
 
 * testing
 
-> https://c9.io/tumf/astrtia/workspace/day_status/day_status.html
+> https://c9.io/tumf/astortia/workspace/day_status/day_status.html
 
 
